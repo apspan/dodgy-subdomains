@@ -5,3 +5,6 @@ irc
 live
 mail
 www
+smtp
+pop3
+pop
